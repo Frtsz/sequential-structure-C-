@@ -1,0 +1,70 @@
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.exe
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.deps.json
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.runtimeconfig.json
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfoInputs.cache
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfo.cs
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.csproj.CoreCompileInputs.cache
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\refint\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.genruntimeconfig.cache
+D:\atividades\Atividades C#\atividade 0\!Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\ref\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.exe
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.deps.json
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.runtimeconfig.json
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfoInputs.cache
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfo.cs
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.csproj.CoreCompileInputs.cache
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\refint\!Atividade 0 - Final.dll
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.genruntimeconfig.cache
+D:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\ref\!Atividade 0 - Final.dll
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.exe
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.deps.json
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.runtimeconfig.json
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.dll
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.pdb
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.GeneratedMSBuildEditorConfig.editorconfig
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfoInputs.cache
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfo.cs
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.csproj.CoreCompileInputs.cache
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.dll
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\refint\!Atividade 0 - Final.dll
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.pdb
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.genruntimeconfig.cache
+F:\atividades\Atividades C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\ref\!Atividade 0 - Final.dll
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.exe
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.deps.json
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.runtimeconfig.json
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfoInputs.cache
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfo.cs
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.csproj.CoreCompileInputs.cache
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.dll
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\refint\!Atividade 0 - Final.dll
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.pdb
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.genruntimeconfig.cache
+D:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\ref\!Atividade 0 - Final.dll
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.exe
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.deps.json
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.runtimeconfig.json
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.dll
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\bin\Debug\net8.0\!Atividade 0 - Final.pdb
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.GeneratedMSBuildEditorConfig.editorconfig
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfoInputs.cache
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.AssemblyInfo.cs
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.csproj.CoreCompileInputs.cache
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.dll
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\refint\!Atividade 0 - Final.dll
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.pdb
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\!Atividade 0 - Final.genruntimeconfig.cache
+F:\atividades\C#\atividade 0\Atividade 0 - Final\!Atividade 0 - Final\obj\Debug\net8.0\ref\!Atividade 0 - Final.dll
